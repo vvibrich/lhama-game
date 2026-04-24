@@ -28,6 +28,12 @@
         "projectId": "d16585a2-cec4-489f-83fd-a6831b5c2d6c"
       }
     },
-    "owner": "viniciusvibrich"
+    "owner": "viniciusvibrich",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d16585a2-cec4-489f-83fd-a6831b5c2d6c"
+    }
   }
 }
